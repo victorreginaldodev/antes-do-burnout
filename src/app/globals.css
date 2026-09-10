@@ -1,0 +1,186 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    /* Base Escura Cyber-Psyche por padrão */
+    --background: #090514;
+    --foreground: #F8FAFC;
+
+    --card: #120A24;
+    --card-foreground: #F8FAFC;
+
+    --popover: #120A24;
+    --popover-foreground: #F8FAFC;
+
+    /* Escala Cyber-Purple (do neon mais alto ao pastel mais suave) */
+    --brand-50: #FAF5FF;
+    --brand-100: #F3E8FF;
+    --brand-200: #E9D5FF;  /* Pastel Lilás */
+    --brand-300: #D8B4FE;
+    --brand-400: #C084FC;  /* Neon Lavanda */
+    --brand-500: #A855F7;  /* Neon Purple Principal */
+    --brand-600: #9333EA;  /* Roxo Intenso */
+    --brand-700: #7E22CE;
+    --brand-800: #581C87;
+    --brand-900: #3B0764;  /* Deep Violet */
+    --brand-950: #1A0826;
+
+    --primary: #A855F7;
+    --primary-foreground: #FFFFFF;
+
+    --secondary: #1F1138;
+    --secondary-foreground: #E9D5FF;
+
+    --muted: #1E1530;
+    --muted-foreground: #A79BBF;
+
+    --accent: #2A174A;
+    --accent-foreground: #F3E8FF;
+
+    /* Semáforo Psicométrico (HSE-IT) Otimizado para Dark UI */
+    --risk-low: #10B981;
+    --risk-low-bg: rgba(16, 185, 129, 0.15);
+    --risk-low-border: rgba(16, 185, 129, 0.4);
+    --risk-low-text: #6EE7B7;
+
+    --risk-medium: #F59E0B;
+    --risk-medium-bg: rgba(245, 158, 11, 0.15);
+    --risk-medium-border: rgba(245, 158, 11, 0.4);
+    --risk-medium-text: #FCD34D;
+
+    --risk-high: #F43F5E;
+    --risk-high-bg: rgba(244, 63, 94, 0.15);
+    --risk-high-border: rgba(244, 63, 94, 0.4);
+    --risk-high-text: #FDA4AF;
+
+    --border: rgba(168, 85, 247, 0.18);
+    --input: rgba(168, 85, 247, 0.25);
+    --ring: #A855F7;
+
+    --radius: 1rem;
+  }
+}
+
+@theme {
+  --font-display: var(--font-michroma), monospace, sans-serif;
+  --font-sans: var(--font-sans), system-ui, sans-serif;
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --color-brand-50: var(--brand-50);
+  --color-brand-100: var(--brand-100);
+  --color-brand-200: var(--brand-200);
+  --color-brand-300: var(--brand-300);
+  --color-brand-400: var(--brand-400);
+  --color-brand-500: var(--brand-500);
+  --color-brand-600: var(--brand-600);
+  --color-brand-700: var(--brand-700);
+  --color-brand-800: var(--brand-800);
+  --color-brand-900: var(--brand-900);
+  --color-brand-950: var(--brand-950);
+
+  --color-risk-low: var(--risk-low);
+  --color-risk-medium: var(--risk-medium);
+  --color-risk-high: var(--risk-high);
+}
+
+.font-display {
+  font-family: var(--font-michroma), monospace, sans-serif;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), system-ui, sans-serif;
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* Utilitários Cyberpunk & Glassmorphism */
+.glass-panel {
+  background: rgba(18, 10, 36, 0.72);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(168, 85, 247, 0.22);
+}
+
+.glass-panel-hover {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.glass-panel-hover:hover {
+  background: rgba(26, 15, 51, 0.85);
+  border-color: rgba(192, 132, 252, 0.45);
+  box-shadow: 0 0 25px rgba(168, 85, 247, 0.2);
+}
+
+.neon-glow-btn {
+  box-shadow: 0 0 20px rgba(168, 85, 247, 0.45), inset 0 0 10px rgba(233, 213, 255, 0.2);
+  transition: all 0.25s ease;
+}
+
+.neon-glow-btn:hover {
+  box-shadow: 0 0 32px rgba(192, 132, 252, 0.7), inset 0 0 14px rgba(255, 255, 255, 0.3);
+  transform: translateY(-1px);
+}
+
+.neon-border-subtle {
+  border: 1px solid rgba(192, 132, 252, 0.3);
+}
+
+.text-gradient-cyber {
+  background: linear-gradient(135deg, #FFFFFF 0%, #E9D5FF 45%, #C084FC 80%, #A855F7 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gradient-purple-cyan {
+  background: linear-gradient(135deg, #F3E8FF 10%, #C084FC 50%, #38BDF8 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@keyframes float-slow {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+.animate-float {
+  animation: float-slow 6s ease-in-out infinite;
+}
+
+@keyframes pulse-glow {
+  0%, 100% {
+    opacity: 0.4;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.7;
+    transform: scale(1.05);
+  }
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 4s ease-in-out infinite;
+}

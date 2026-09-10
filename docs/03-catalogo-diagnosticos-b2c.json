@@ -1,0 +1,173 @@
+{
+  "demanda": {
+    "nome": "Demandas e Ritmo",
+    "CRITICO": {
+      "titulo": "Sobrecarga Crônica de Trabalho",
+      "diagnostico": "Você está operando sob pressão temporal excessiva e volume de tarefas além da sua capacidade sustentável.",
+      "riscos": "Exaustão física e cognitiva, perda de concentração, insônia e tensão crônica.",
+      "acoes": [
+        "Faça triagem radical das tarefas: separe em Essenciais, Negociáveis e Descartáveis.",
+        "Defina um horário inegociável para encerrar o expediente diário.",
+        "Adote micro-pausas de 5 minutos sem telas a cada 90 minutos de foco."
+      ],
+      "roteiro_conversa": "Tenho mapeado minhas entregas e identifiquei que o volume atual está ultrapassando a capacidade sustentável com qualidade. Gostaria de repactuar com você a prioridade das demandas para garantir que os resultados principais não sejam comprometidos."
+    },
+    "MODERADO": {
+      "titulo": "Atenção ao Ritmo e Picos de Carga",
+      "diagnostico": "Seu volume é gerenciável na maior parte do tempo, mas picos frequentes de demanda começam a gerar cansaço residual.",
+      "acoes": [
+        "Bloqueie blocos de 2 horas na sua agenda para trabalho focado e profundo.",
+        "Avalie e reduza a participação em reuniões dispensáveis."
+      ]
+    },
+    "BAIXO": {
+      "titulo": "Demandas Equilibradas e Sustentáveis",
+      "diagnostico": "Você tem prazos exequíveis e volume adequado de tarefas, preservando sua energia e descanso."
+    }
+  },
+  "controle": {
+    "nome": "Controle e Autonomia",
+    "CRITICO": {
+      "titulo": "Baixa Autonomia e Microgerenciamento",
+      "diagnostico": "Você sente pouca ou nenhuma voz sobre como, quando e em qual velocidade executar suas tarefas diárias.",
+      "riscos": "Sentimento de impotência, desmotivação crônica e estresse por rigidez operacional.",
+      "acoes": [
+        "Concentre-se nas micro-autonomias diárias que você já pode controlar.",
+        "Apresente propostas de métodos já formatadas em vez de pedir permissão genérica."
+      ],
+      "roteiro_conversa": "Percebo que posso ser mais eficiente se tiver um pouco mais de flexibilidade sobre a ordem das minhas entregas. Proponho mantermos a data final combinada, mas ajustarmos a forma como conduzo o dia a dia. Podemos testar isso por duas semanas?"
+    },
+    "MODERADO": {
+      "titulo": "Autonomia Parcial com Gargalos Pontuais",
+      "diagnostico": "Você possui liberdade em algumas rotinas, mas ainda esbarra em burocracias rígidas ou aprovações lentas.",
+      "acoes": [
+        "Negocie pequenas margens de autonomia em tarefas onde sua competência já é comprovada."
+      ]
+    },
+    "BAIXO": {
+      "titulo": "Excelente Autonomia e Liberdade",
+      "diagnostico": "Você tem controle sobre seu ritmo, pausas e métodos de trabalho, fator essencial de proteção mental."
+    }
+  },
+  "apoio_chefia": {
+    "nome": "Apoio da Chefia",
+    "CRITICO": {
+      "titulo": "Percepção de Desamparo da Liderança",
+      "diagnostico": "Falta de feedback construtivo, incentivo ao seu desenvolvimento e escuta ativa por parte do seu gestor direto.",
+      "riscos": "Insegurança psicológica, sensação de esforço invisível e estresse por incerteza de desempenho.",
+      "acoes": [
+        "Solicite reuniões breves quinzenais (1:1) com pauta clara e estruturada.",
+        "Mantenha um registro próprio das suas entregas e conquistas objetivas."
+      ],
+      "roteiro_conversa": "Gostaria de agendar 20 minutos com você na próxima semana para alinharmos expectativas sobre o meu desempenho e entender os pontos onde você enxerga oportunidade de evolução nas minhas entregas."
+    },
+    "MODERADO": {
+      "titulo": "Apoio Pontual com Lacunas de Feedback",
+      "diagnostico": "A liderança auxilia em momentos de crise, mas as conversas de alinhamento e carreira ainda são esparsas.",
+      "acoes": [
+        "Pergunte ativamente após entregas relevantes: 'O que funcionou muito bem e o que podemos melhorar na próxima?'."
+      ]
+    },
+    "BAIXO": {
+      "titulo": "Liderança Presente e Apoiadora",
+      "diagnostico": "Você conta com um gestor acessível, que valoriza o seu trabalho e apoia seu crescimento."
+    }
+  },
+  "apoio_colegas": {
+    "nome": "Apoio dos Colegas",
+    "CRITICO": {
+      "titulo": "Isolamento e Falta de Apoio Entre Pares",
+      "diagnostico": "Ambiente de isolamento ou individualismo, onde é difícil encontrar cooperação e escuta mútua.",
+      "riscos": "Sensação de solidão profissional e sobrecarga amplificada por falta de divisão de desafios.",
+      "acoes": [
+        "Construa pontes individuais com um ou dois colegas de confiança para apoio mútuo.",
+        "Fortaleça suas redes de apoio e mentoria fora da empresa."
+      ],
+      "roteiro_conversa": "Percebo que nossa rotina está pesada para todos. Gostaria de propor combinarmos uma troca rápida semanal de 15 minutos para compartilharmos desafios e nos apoiarmos mutuamente nas dúvidas."
+    },
+    "MODERADO": {
+      "titulo": "Relações Cordiais mas Pouco Colaborativas",
+      "diagnostico": "A convivência é respeitosa, mas a ajuda mútua espontânea ainda é tímida.",
+      "acoes": [
+        "Dê o primeiro passo oferecendo ajuda pontual em momentos de menor aperto pessoal."
+      ]
+    },
+    "BAIXO": {
+      "titulo": "Time Colaborativo e Solidário",
+      "diagnostico": "Você conta com uma rede de segurança sólida entre seus colegas, com ajuda mútua e incentivo constante."
+    }
+  },
+  "relacionamentos": {
+    "nome": "Relacionamentos e Convivência",
+    "CRITICO": {
+      "titulo": "Conflitos Frequentes ou Risco de Assédio",
+      "diagnostico": "Vivência de atritos desgastantes, hostilidade velada ou condutas abusivas no cotidiano de trabalho.",
+      "riscos": "Crises de ansiedade, sensação crônica de ameaça e adoecimento emocional acelerado.",
+      "acoes": [
+        "Documente detalhadamente datas, fatos, testemunhas e mensagens em canal pessoal seguro fora da empresa.",
+        "Busque acolhimento com psicólogo(a) clínico(a) para suporte emocional e fortalecimento de limites.",
+        "Privilegie alinhamentos formais por escrito (e-mail) e evite interações verbais desprotegidas."
+      ],
+      "roteiro_conversa": "Prefiro que todas as diretrizes e solicitações referentes a este projeto sejam alinhadas formalmente por e-mail para garantir a clareza dos prazos e escopo."
+    },
+    "MODERADO": {
+      "titulo": "Ruídos de Comunicação e Atritos Esporádicos",
+      "diagnostico": "Divergências pontuais de temperamento geram desconforto, sem configurar assédio continuado.",
+      "acoes": [
+        "Adote técnicas de comunicação não violenta e evite se envolver em fofocas corporativas."
+      ]
+    },
+    "BAIXO": {
+      "titulo": "Ambiente Ético, Respeitoso e Seguro",
+      "diagnostico": "Relações saudáveis baseadas em respeito mútuo, integridade e ausência de hostilidade."
+    }
+  },
+  "papel": {
+    "nome": "Clareza de Papel",
+    "CRITICO": {
+      "titulo": "Ambiguidade e Cobranças Conflitantes",
+      "diagnostico": "Incerteza sobre o que esperam de você, recebimento de ordens contraditórias ou ausência de prioridades claras.",
+      "riscos": "Ansiedade por medo de errar e desperdício de energia em tarefas sem direcionamento.",
+      "acoes": [
+        "Elabore uma lista com suas 5 principais responsabilidades e valide ativamente com sua chefia.",
+        "Ao receber demandas opostas, coloque os solicitantes em contato para definição de prioridade."
+      ],
+      "roteiro_conversa": "Para garantir que estou direcionando 100% da minha energia onde ela gera maior valor para o setor, montei este resumo das minhas metas prioritárias. Podemos revisar juntos para garantir que estamos perfeitamente alinhados?"
+    },
+    "MODERADO": {
+      "titulo": "Metas Vagas ou Mudanças Esporádicas de Escopo",
+      "diagnostico": "Você entende suas tarefas diárias, mas as metas e indicadores de sucesso nem sempre estão nítidos.",
+      "acoes": [
+        "Peça esclarecimento dos critérios de sucesso e prioridades antes de iniciar novas demandas."
+      ]
+    },
+    "BAIXO": {
+      "titulo": "Papel e Objetivos Nítidos",
+      "diagnostico": "Você sabe exatamente o que a organização espera de você e como o seu trabalho agrega valor real."
+    }
+  },
+  "mudancas": {
+    "nome": "Gestão de Mudanças",
+    "CRITICO": {
+      "titulo": "Transições Caóticas e Falta de Apoio",
+      "diagnostico": "Alterações frequentes de rota, sistemas ou processos comunicadas em cima da hora e sem preparo prévio.",
+      "riscos": "Sensação de instabilidade contínua, insegurança profissional e estresse adaptativo.",
+      "acoes": [
+        "Foque no que está sob o seu controle imediato de organização diária.",
+        "Solicite treinamentos e capacitações formais para novos sistemas ou processos."
+      ],
+      "roteiro_conversa": "Com as recentes alterações de fluxo, identifiquei que precisamos de um alinhamento sobre as novas etapas para evitar gargalos na rotina. Qual é o melhor momento para revisarmos isso?"
+    },
+    "MODERADO": {
+      "titulo": "Adaptações Apressadas com Pouco Treinamento",
+      "diagnostico": "As mudanças são comunicadas, mas o tempo de assimilação e apoio prático ainda são limitados.",
+      "acoes": [
+        "Leve dúvidas e sugestões práticas com antecedência nas reuniões de alinhamento."
+      ]
+    },
+    "BAIXO": {
+      "titulo": "Comunicação Transparente em Mudanças",
+      "diagnostico": "A organização dialoga previamente sobre alterações e oferece suporte consistente para adaptação."
+    }
+  }
+}

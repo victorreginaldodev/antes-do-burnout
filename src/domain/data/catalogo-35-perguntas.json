@@ -1,0 +1,1052 @@
+[
+  {
+    "numero": 1,
+    "texto": "Eu tenho clareza sobre o que é esperado de mim no trabalho",
+    "dimensao": "papel",
+    "dimensao_nome": "Clareza de Papel",
+    "escala": "frequencia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Nunca"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Raramente"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Às vezes"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Frequentemente"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Sempre"
+      }
+    ]
+  },
+  {
+    "numero": 2,
+    "texto": "Posso decidir quando fazer uma pausa",
+    "dimensao": "controle",
+    "dimensao_nome": "Controle",
+    "escala": "frequencia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Nunca"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Raramente"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Às vezes"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Frequentemente"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Sempre"
+      }
+    ]
+  },
+  {
+    "numero": 3,
+    "texto": "Grupos de pessoas diferentes no trabalho exigem coisas de mim que são difíceis de conciliar",
+    "dimensao": "demanda",
+    "dimensao_nome": "Demandas",
+    "escala": "frequencia",
+    "inverter": true,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Nunca"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Raramente"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Às vezes"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Frequentemente"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Sempre"
+      }
+    ]
+  },
+  {
+    "numero": 4,
+    "texto": "Sei como fazer para que meu trabalho seja realizado",
+    "dimensao": "papel",
+    "dimensao_nome": "Clareza de Papel",
+    "escala": "frequencia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Nunca"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Raramente"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Às vezes"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Frequentemente"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Sempre"
+      }
+    ]
+  },
+  {
+    "numero": 5,
+    "texto": "Sou submetido(a) a assédio moral na forma de palavras ou comportamentos ofensivos",
+    "dimensao": "relacionamentos",
+    "dimensao_nome": "Relacionamentos",
+    "escala": "frequencia",
+    "inverter": true,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Nunca"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Raramente"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Às vezes"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Frequentemente"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Sempre"
+      }
+    ]
+  },
+  {
+    "numero": 6,
+    "texto": "Tenho prazos inalcançáveis/impossíveis de cumprir",
+    "dimensao": "demanda",
+    "dimensao_nome": "Demandas",
+    "escala": "frequencia",
+    "inverter": true,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Nunca"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Raramente"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Às vezes"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Frequentemente"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Sempre"
+      }
+    ]
+  },
+  {
+    "numero": 7,
+    "texto": "Se o trabalho fica difícil, meus colegas me ajudam",
+    "dimensao": "apoio_colegas",
+    "dimensao_nome": "Apoio dos Colegas",
+    "escala": "frequencia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Nunca"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Raramente"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Às vezes"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Frequentemente"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Sempre"
+      }
+    ]
+  },
+  {
+    "numero": 8,
+    "texto": "Recebo a ajuda e o apoio que preciso dos meus colegas",
+    "dimensao": "apoio_colegas",
+    "dimensao_nome": "Apoio dos Colegas",
+    "escala": "frequencia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Nunca"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Raramente"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Às vezes"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Frequentemente"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Sempre"
+      }
+    ]
+  },
+  {
+    "numero": 9,
+    "texto": "Tenho a oportunidade de dizer se a forma de trabalhar me convém",
+    "dimensao": "controle",
+    "dimensao_nome": "Controle",
+    "escala": "frequencia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Nunca"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Raramente"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Às vezes"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Frequentemente"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Sempre"
+      }
+    ]
+  },
+  {
+    "numero": 10,
+    "texto": "Tenho que trabalhar muito rápido",
+    "dimensao": "demanda",
+    "dimensao_nome": "Demandas",
+    "escala": "frequencia",
+    "inverter": true,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Nunca"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Raramente"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Às vezes"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Frequentemente"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Sempre"
+      }
+    ]
+  },
+  {
+    "numero": 11,
+    "texto": "Tenho clareza sobre as metas e objetivos do meu setor/departamento",
+    "dimensao": "papel",
+    "dimensao_nome": "Clareza de Papel",
+    "escala": "frequencia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Nunca"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Raramente"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Às vezes"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Frequentemente"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Sempre"
+      }
+    ]
+  },
+  {
+    "numero": 12,
+    "texto": "Posso expressar minha opinião sobre a velocidade com que trabalho",
+    "dimensao": "controle",
+    "dimensao_nome": "Controle",
+    "escala": "frequencia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Nunca"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Raramente"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Às vezes"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Frequentemente"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Sempre"
+      }
+    ]
+  },
+  {
+    "numero": 13,
+    "texto": "Sou alvo de atritos ou conflitos com colegas de trabalho",
+    "dimensao": "relacionamentos",
+    "dimensao_nome": "Relacionamentos",
+    "escala": "frequencia",
+    "inverter": true,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Nunca"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Raramente"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Às vezes"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Frequentemente"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Sempre"
+      }
+    ]
+  },
+  {
+    "numero": 14,
+    "texto": "Tenho tempo suficiente para realizar todas as minhas tarefas",
+    "dimensao": "demanda",
+    "dimensao_nome": "Demandas",
+    "escala": "frequencia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Nunca"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Raramente"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Às vezes"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Frequentemente"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Sempre"
+      }
+    ]
+  },
+  {
+    "numero": 15,
+    "texto": "Meus colegas estão dispostos a ouvir meus problemas relacionados ao trabalho",
+    "dimensao": "apoio_colegas",
+    "dimensao_nome": "Apoio dos Colegas",
+    "escala": "frequencia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Nunca"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Raramente"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Às vezes"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Frequentemente"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Sempre"
+      }
+    ]
+  },
+  {
+    "numero": 16,
+    "texto": "Tenho que trabalhar intensamente por períodos prolongados",
+    "dimensao": "demanda",
+    "dimensao_nome": "Demandas",
+    "escala": "frequencia",
+    "inverter": true,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Nunca"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Raramente"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Às vezes"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Frequentemente"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Sempre"
+      }
+    ]
+  },
+  {
+    "numero": 17,
+    "texto": "Tenho liberdade para decidir como faço o meu trabalho",
+    "dimensao": "controle",
+    "dimensao_nome": "Controle",
+    "escala": "frequencia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Nunca"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Raramente"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Às vezes"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Frequentemente"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Sempre"
+      }
+    ]
+  },
+  {
+    "numero": 18,
+    "texto": "Há animosidade ou conflitos entre colegas no trabalho",
+    "dimensao": "relacionamentos",
+    "dimensao_nome": "Relacionamentos",
+    "escala": "frequencia",
+    "inverter": true,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Nunca"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Raramente"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Às vezes"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Frequentemente"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Sempre"
+      }
+    ]
+  },
+  {
+    "numero": 19,
+    "texto": "Tenho a oportunidade de exercer iniciativa na forma de realizar meu trabalho",
+    "dimensao": "controle",
+    "dimensao_nome": "Controle",
+    "escala": "frequencia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Nunca"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Raramente"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Às vezes"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Frequentemente"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Sempre"
+      }
+    ]
+  },
+  {
+    "numero": 20,
+    "texto": "Minhas tarefas são prioritárias em relação a outras exigências",
+    "dimensao": "papel",
+    "dimensao_nome": "Clareza de Papel",
+    "escala": "frequencia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Nunca"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Raramente"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Às vezes"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Frequentemente"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Sempre"
+      }
+    ]
+  },
+  {
+    "numero": 21,
+    "texto": "É exigido de mim que faça coisas além da minha capacidade",
+    "dimensao": "demanda",
+    "dimensao_nome": "Demandas",
+    "escala": "frequencia",
+    "inverter": true,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Nunca"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Raramente"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Às vezes"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Frequentemente"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Sempre"
+      }
+    ]
+  },
+  {
+    "numero": 22,
+    "texto": "Meus colegas me incentivam no trabalho",
+    "dimensao": "apoio_colegas",
+    "dimensao_nome": "Apoio dos Colegas",
+    "escala": "frequencia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Nunca"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Raramente"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Às vezes"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Frequentemente"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Sempre"
+      }
+    ]
+  },
+  {
+    "numero": 23,
+    "texto": "Meu gestor imediato me dá feedback construtivo sobre o trabalho que realizo",
+    "dimensao": "apoio_chefia",
+    "dimensao_nome": "Apoio da Chefia",
+    "escala": "concordancia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Discordo totalmente"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Discordo"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Neutro"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Concordo"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Concordo totalmente"
+      }
+    ]
+  },
+  {
+    "numero": 24,
+    "texto": "Tenho a oportunidade de conversar com meu gestor imediato sobre coisas que me incomodam no trabalho",
+    "dimensao": "apoio_chefia",
+    "dimensao_nome": "Apoio da Chefia",
+    "escala": "concordancia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Discordo totalmente"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Discordo"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Neutro"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Concordo"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Concordo totalmente"
+      }
+    ]
+  },
+  {
+    "numero": 25,
+    "texto": "Posso contar com a ajuda do meu gestor imediato quando surge um problema no trabalho",
+    "dimensao": "apoio_chefia",
+    "dimensao_nome": "Apoio da Chefia",
+    "escala": "concordancia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Discordo totalmente"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Discordo"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Neutro"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Concordo"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Concordo totalmente"
+      }
+    ]
+  },
+  {
+    "numero": 26,
+    "texto": "Sinto que meu gestor imediato valoriza o meu trabalho",
+    "dimensao": "apoio_chefia",
+    "dimensao_nome": "Apoio da Chefia",
+    "escala": "concordancia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Discordo totalmente"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Discordo"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Neutro"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Concordo"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Concordo totalmente"
+      }
+    ]
+  },
+  {
+    "numero": 27,
+    "texto": "As mudanças no trabalho são explicadas de forma clara para mim",
+    "dimensao": "mudancas",
+    "dimensao_nome": "Gestão de Mudanças",
+    "escala": "concordancia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Discordo totalmente"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Discordo"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Neutro"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Concordo"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Concordo totalmente"
+      }
+    ]
+  },
+  {
+    "numero": 28,
+    "texto": "Tenho a oportunidade de influenciar a forma como as mudanças são implementadas na minha área",
+    "dimensao": "mudancas",
+    "dimensao_nome": "Gestão de Mudanças",
+    "escala": "concordancia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Discordo totalmente"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Discordo"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Neutro"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Concordo"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Concordo totalmente"
+      }
+    ]
+  },
+  {
+    "numero": 29,
+    "texto": "A organização me apoia durante os períodos de mudanças",
+    "dimensao": "mudancas",
+    "dimensao_nome": "Gestão de Mudanças",
+    "escala": "concordancia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Discordo totalmente"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Discordo"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Neutro"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Concordo"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Concordo totalmente"
+      }
+    ]
+  },
+  {
+    "numero": 30,
+    "texto": "Meus colegas me tratam com respeito",
+    "dimensao": "relacionamentos",
+    "dimensao_nome": "Relacionamentos",
+    "escala": "concordancia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Discordo totalmente"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Discordo"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Neutro"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Concordo"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Concordo totalmente"
+      }
+    ]
+  },
+  {
+    "numero": 31,
+    "texto": "Eu entendo como o meu trabalho se encaixa nos objetivos gerais da organização",
+    "dimensao": "papel",
+    "dimensao_nome": "Clareza de Papel",
+    "escala": "concordancia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Discordo totalmente"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Discordo"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Neutro"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Concordo"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Concordo totalmente"
+      }
+    ]
+  },
+  {
+    "numero": 32,
+    "texto": "Recebo apoio suficiente para lidar com mudanças no trabalho",
+    "dimensao": "mudancas",
+    "dimensao_nome": "Gestão de Mudanças",
+    "escala": "concordancia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Discordo totalmente"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Discordo"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Neutro"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Concordo"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Concordo totalmente"
+      }
+    ]
+  },
+  {
+    "numero": 33,
+    "texto": "Meu gestor imediato incentiva o meu desenvolvimento profissional",
+    "dimensao": "apoio_chefia",
+    "dimensao_nome": "Apoio da Chefia",
+    "escala": "concordancia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Discordo totalmente"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Discordo"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Neutro"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Concordo"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Concordo totalmente"
+      }
+    ]
+  },
+  {
+    "numero": 34,
+    "texto": "Sei exatamente o que esperam de mim nas minhas funções diárias",
+    "dimensao": "papel",
+    "dimensao_nome": "Clareza de Papel",
+    "escala": "concordancia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Discordo totalmente"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Discordo"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Neutro"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Concordo"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Concordo totalmente"
+      }
+    ]
+  },
+  {
+    "numero": 35,
+    "texto": "As tarefas que realizo estão alinhadas com o propósito da organização",
+    "dimensao": "papel",
+    "dimensao_nome": "Clareza de Papel",
+    "escala": "concordancia",
+    "inverter": false,
+    "opcoes": [
+      {
+        "valor": 1,
+        "rotulo": "Discordo totalmente"
+      },
+      {
+        "valor": 2,
+        "rotulo": "Discordo"
+      },
+      {
+        "valor": 3,
+        "rotulo": "Neutro"
+      },
+      {
+        "valor": 4,
+        "rotulo": "Concordo"
+      },
+      {
+        "valor": 5,
+        "rotulo": "Concordo totalmente"
+      }
+    ]
+  }
+]
